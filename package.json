@@ -1,7 +1,7 @@
 {
     "name": "team-feedback-tool",
     "version": "1.0.0",
-    "description": "A simple web application for teams to give and receive constructive feedback in a structured manner.",
+    "description": "A simple web application designed to facilitate constructive feedback among team members in a structured manner.",
     "main": "src/app.js",
     "scripts": {
         "start": "node src/app.js",
